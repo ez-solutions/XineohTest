@@ -1,8 +1,6 @@
 #!user/bin/python
 import pymysql
-import sys
 import pandas as pd
-import logging
 
 HOSTNAME = "173.45.91.18"
 USERNAME = "test_user_03"
