@@ -23,3 +23,6 @@ Contains the correlated *userID*, *interatction* (*yes*, *no*, *maybe*, *never*)
 ```
 $ python user_interaction.py
 ```
+
+### NB
+Since the *results* column in table *user_interaction_results* was updated during the trial runs, there is no more *NULL* valued results, rerun the program won't have any effects on the results.
